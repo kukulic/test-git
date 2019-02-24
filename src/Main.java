@@ -9,5 +9,7 @@ public class Main {
 
     System.out.println("kreiranje prvog brancha");
 
+    System.out.println("prvi push na novi branch");
+
     }
 }
