@@ -7,5 +7,7 @@ public class Main {
 
     System.out.println("prvi commit");
 
+    System.out.println("kreiranje prvog brancha");
+
     }
 }
