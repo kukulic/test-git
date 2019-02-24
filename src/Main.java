@@ -11,5 +11,7 @@ public class Main {
 
     System.out.println("prvi push na novi branch");
 
+    System.out.println("drugi push na novi branch");
+
     }
 }
