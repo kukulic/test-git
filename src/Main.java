@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-    System.out.println("master");
+    System.out.println("prvi");
 
     System.out.println("nesto master");
     System.out.println("nesto 1");
@@ -13,5 +13,9 @@ public class Main {
     System.out.println("nesto 1b");
     System.out.println("nesto 2");
     System.out.println("nesto 2a");
+    System.out.println("nesto 3");
+    System.out.println("nesto 3a");
+    System.out.println("nesto 3b");
+
     }
 }
